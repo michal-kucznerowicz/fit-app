@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "fit-app",
+    "slug": "fit-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "fit-app"
+}
